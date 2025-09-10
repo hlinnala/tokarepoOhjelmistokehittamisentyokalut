@@ -56,6 +56,7 @@ Linkki nyt vaikka sinne, mistä ostan näitä funkoja. Ei oikein muuta keksinyt
 Taulukko vaikka siitä, paljonko funkoja on keräilty
 
 | Funkosarja | Kappalemäärä |
+| ---|-----|
 | Marvel | 39 |
 | Anime | 12 |
 | Muut | 11 |
