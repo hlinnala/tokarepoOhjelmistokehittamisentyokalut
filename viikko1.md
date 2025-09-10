@@ -11,7 +11,7 @@
 - kolme
 
 
-[Linkki] (https://github.com)
+[Linkki](https://github.com)
 
 
 ![Kuva][Kissan kuva]
@@ -22,6 +22,8 @@
 | ---|-----|
 | en tiedä | juu |
 | mitä vielä | mitä |
+
+```
 
 ```
 
