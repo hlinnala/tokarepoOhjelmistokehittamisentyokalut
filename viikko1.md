@@ -47,10 +47,12 @@ Asuinpaikkakunnat *vanhimmasta* nykyiseen
 - Marvel-leffat ja -sarjat
 
 Linkki nyt vaikka sinne, mistä ostan näitä funkoja. Ei oikein muuta keksinyt
+
+
 [Funko](https://funkoeurope.com)
 
 
-![Kuva](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffunko.com%2Fon%2Fdemandware.static%2F-%2FSites-funko-master-catalog%2Fdefault%2Fdw09d1e0d0%2Fimages%2Ffunko%2Fupload%2F74290a_POPDeluxe_Loki_S2_POP1_GLAM-1-FunkoA-WEB.png&f=1&nofb=1&ipt=3e92c753e80658f3c91bf143304282dc8c8451c590d832ba25260b48247167fd)
+![Kuva](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffunko.com%2Fdw%2Fimage%2Fv2%2FBGTS_PRD%2Fon%2Fdemandware.static%2F-%2FSites-funko-master-catalog%2Fdefault%2Fdw7168a785%2Fimages%2Ffunko%2Fupload%2F74290a_POPDeluxe_Loki_S2_POP1_GLAM-WEB.png%3Fsw%3D800%26sh%3D800&f=1&nofb=1&ipt=bb984f05d83665926efc56d955517f797704a236b34d84503e2d3f87e0f82d19)
 
 
 Taulukko vaikka siitä, paljonko funkoja on keräilty
